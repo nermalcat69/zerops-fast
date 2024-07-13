@@ -14,7 +14,7 @@ services:
   - hostname: app
     type: nodejs@20
     enableSubdomainAccess: true
-    buildFromGit: https://github.com/nermalcat69/zeropsfast
+    buildFromGit: https://github.com/nermalcat69/zerops-fast
 ```
 
 Zerops.yml which you need in root of your project.
